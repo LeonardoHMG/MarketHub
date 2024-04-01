@@ -1,0 +1,17 @@
+D:\Empresa\2024\aula1103\WebAPI\MarketHub\MarketHub.Data\bin\Debug\net8.0\MarketHub.Data.deps.json
+D:\Empresa\2024\aula1103\WebAPI\MarketHub\MarketHub.Data\bin\Debug\net8.0\MarketHub.Data.runtimeconfig.json
+D:\Empresa\2024\aula1103\WebAPI\MarketHub\MarketHub.Data\bin\Debug\net8.0\MarketHub.Data.dll
+D:\Empresa\2024\aula1103\WebAPI\MarketHub\MarketHub.Data\bin\Debug\net8.0\MarketHub.Data.pdb
+D:\Empresa\2024\aula1103\WebAPI\MarketHub\MarketHub.Data\bin\Debug\net8.0\MarketHub.Domain.dll
+D:\Empresa\2024\aula1103\WebAPI\MarketHub\MarketHub.Data\bin\Debug\net8.0\MarketHub.Domain.pdb
+D:\Empresa\2024\aula1103\WebAPI\MarketHub\MarketHub.Data\obj\Debug\net8.0\MarketHub.Data.csproj.AssemblyReference.cache
+D:\Empresa\2024\aula1103\WebAPI\MarketHub\MarketHub.Data\obj\Debug\net8.0\MarketHub.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Empresa\2024\aula1103\WebAPI\MarketHub\MarketHub.Data\obj\Debug\net8.0\MarketHub.Data.AssemblyInfoInputs.cache
+D:\Empresa\2024\aula1103\WebAPI\MarketHub\MarketHub.Data\obj\Debug\net8.0\MarketHub.Data.AssemblyInfo.cs
+D:\Empresa\2024\aula1103\WebAPI\MarketHub\MarketHub.Data\obj\Debug\net8.0\MarketHub.Data.csproj.CoreCompileInputs.cache
+D:\Empresa\2024\aula1103\WebAPI\MarketHub\MarketHub.Data\obj\Debug\net8.0\MarketHu.45FF282A.Up2Date
+D:\Empresa\2024\aula1103\WebAPI\MarketHub\MarketHub.Data\obj\Debug\net8.0\MarketHub.Data.dll
+D:\Empresa\2024\aula1103\WebAPI\MarketHub\MarketHub.Data\obj\Debug\net8.0\refint\MarketHub.Data.dll
+D:\Empresa\2024\aula1103\WebAPI\MarketHub\MarketHub.Data\obj\Debug\net8.0\MarketHub.Data.pdb
+D:\Empresa\2024\aula1103\WebAPI\MarketHub\MarketHub.Data\obj\Debug\net8.0\MarketHub.Data.genruntimeconfig.cache
+D:\Empresa\2024\aula1103\WebAPI\MarketHub\MarketHub.Data\obj\Debug\net8.0\ref\MarketHub.Data.dll
